@@ -1,4 +1,6 @@
 # DisableResample
+> supports only vegas pro 14+
+<br>
 A vegas script that let's the user disables any type of resample for vegas scripts.
 
 How to install: 
