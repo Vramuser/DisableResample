@@ -1,7 +1,7 @@
 # DisableResample
 > supports only vegas pro 14+
 <br>
-A vegas script that let's the user disables any type of resample for vegas scripts.
+A vegas script that let's the user disables any type of resample for videos on the timeline.
 
 How to install: 
 1. Make a folder in `Documents` titled/named `Vegas Script Menu`
